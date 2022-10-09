@@ -12,4 +12,4 @@ Antonio Ratti - 1700089
 
 *  Problem 1 solutions as Jupyter Notebook files.
 *  Problem 2 solutions as a Jupyter Notebook file.
-*  stamps PDF file with the submissions.
+*  stamps PDF file with the submission.
